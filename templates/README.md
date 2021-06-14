@@ -27,18 +27,18 @@
 
 ## Table of Contents
 
-`rebuild links to correctly link on bitbucket`
+`TODO: rebuild links to correctly link on bitbucket`
 
 | Section | Last Updated |
 |--|--|
-| Project Outline Document | [Link - XX/XX/2020 ]() |
-| Specification & Requirements Document | [Link - XX/XX/2020 ]() |
-| Documentation for Client | [Link - XX/XX/2020 ]() |
-| Meeting Minutes | [Link - XX/XX/2020 ]() |
-| Weekly Update Videos | [Link - XX/XX/2020 ]() |
-| Assessment - Group Report (Week 7) | [Link - XX/XX/2020 ]() |
-| Assessment - Individual Reports (Week 7) | [Link - XX/XX/2020 ]() |
-| Assessment - Final Group Report | [Link - XX/XX/2020 ]() |
-| Assessment - Final Individual Reports | [Link - XX/XX/2020 ]() |
+| Project Outline Document | [Link - XX/XX/2021 ]() |
+| Specification & Requirements Document | [Link - XX/XX/2021 ]() |
+| Documentation for Client | [Link - XX/XX/2021 ]() |
+| Meeting Minutes | [Link - XX/XX/2021 ]() |
+| Weekly Update Videos | [Link - XX/XX/2021 ]() |
+| Assessment - Group Report (Week 7) | [Link - XX/XX/2021 ]() |
+| Assessment - Individual Reports (Week 7) | [Link - XX/XX/2021 ]() |
+| Assessment - Final Group Report | [Link - XX/XX/2021 ]() |
+| Assessment - Final Individual Reports | [Link - XX/XX/2021 ]() |
 
 
