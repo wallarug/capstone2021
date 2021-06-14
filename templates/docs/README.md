@@ -2,9 +2,9 @@
 
 All documentation to be delivered to the client at the conclusion of the course.  Please publish as a [ReadTheDocs](https://readthedocs.org/) website.
 
-## Simuator
+## Application
 
-`put any documentation relating to the simulator here.  This is a template`
+`put any documentation relating to the app here.  This is a template`
 
 * [Getting Started]()
 * [Usage Instructions]()
